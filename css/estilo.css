@@ -1,0 +1,58 @@
+h1 {
+    color: rgb(188, 0, 226);
+}
+
+html {
+    background-color: rgb(227, 177, 231);
+    font-family: 'Coming Soon', cursive;
+}
+
+h2 {
+    font-family: 'Coming Soon', cursive;
+    color: rgb(10, 49, 224);
+}
+
+td {
+    color: rgb(0, 0, 0);
+    background-color: rgb(198, 123, 241);
+    text-align: center;
+}
+
+table {
+    width: 150px;
+    height: 150px;
+    border-color: whitesmoke;
+    text-align: center;
+    margin: auto;
+    border-collapse: collapse;
+}
+
+#div {
+    display: flex;
+}
+
+#titulo {
+    color: rgb(112, 13, 206);
+    text-align: center;
+}
+
+.gg {
+    text-align: center;
+}
+
+#titulo2 {
+    text-align: center;
+    color: blueviolet;
+}
+
+.nome {
+    color: rgb(64, 5, 119);
+    font-family: 'Roboto Slab', serif;
+
+}
+
+#texto {
+
+    font-family: 'Alkalami', serif;
+    font-family: 'Rajdhani', sans-serif;
+}
